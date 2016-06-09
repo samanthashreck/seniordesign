@@ -1,0 +1,7 @@
+[
+    {
+        "currentDate": "05/06/2016", 
+        "currentTime": "17:37:43", 
+        "soundavg": "70"
+    }
+]

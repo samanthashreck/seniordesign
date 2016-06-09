@@ -1,0 +1,35 @@
+body{
+    padding-top: 35px;
+}
+
+.img-circle{
+    border-radius: 50%;
+    height: 108px;
+    width: 108px;
+}
+ .axis {
+   font: 10px sans-serif;
+ }
+
+ .axis path,
+ .axis line {
+   fill: none;
+   stroke: #000;
+   shape-rendering: crispEdges;
+ }
+ table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #265a88;
+    color: white;
+}
