@@ -29,10 +29,9 @@ My Responsibilities in the project:
 	- Sending JSON readings to web application (using JQuery) 
 
 
-Some things to Mentions:
+Some things to Mention:
 
-This was a year long project from August 2016 to May 2016 at Lehigh University.
-I worked with a partner, Zoe Protin. We are both computer engineers who recently graduated in May.
+This was a year-long project from August 2016 to May 2016 at Lehigh University. I worked with a partner, Zoe Protin. We are both computer engineers who recently graduated in May.
 
 
 Future Works of our project:
